@@ -1,0 +1,36 @@
+.container{
+    width: 1024px;
+    background-color: rgb(18,60,12);
+    min-height:300px;
+    margin-right:auto  ;
+    margin-left: auto;
+}
+header{
+    background-color: rgb(41,96,36);
+    min-height: 100px;
+}
+main{
+    background-color: rgb(153,8,182);
+    min-height: 300px;
+}
+.cards{
+    background-color: rgb(47,198,33);
+    min-height: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.cards1{
+    background-color: rgb(227,58,137);
+    min-height: 300px;
+    width: 30%;
+}
+.cards2{
+    background-color: rgb(222,124,173);
+    min-height: 300px;
+    width: 30%;
+}
+.cards3{
+    background-color: rgb(125,22,70);
+    min-height: 300px;
+    width: 30%;
+}
